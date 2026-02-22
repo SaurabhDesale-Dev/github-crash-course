@@ -3,3 +3,7 @@ function Hello(name, surname) {
 }
 
 Hello("Saurabh", "Desale");
+
+function newFeature() {
+  console.log(`This is a new feature`);
+}
